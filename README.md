@@ -1,4 +1,4 @@
-# CarouselExample
+# Carousel Example
 Carousel Example With UICollectionView
 
 ## Description
